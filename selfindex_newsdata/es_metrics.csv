@@ -1,0 +1,228 @@
+query,latency_sec
+"""crime""",0.0227811336517334
+"""law""",0.029580116271972656
+"""justice""",0.022889137268066406
+"""police""",0.01335000991821289
+"""fraud""",0.019100189208984375
+"""theft""",0.020589828491210938
+"""corruption""",0.02192521095275879
+"""violence""",0.02528858184814453
+"""investigation""",0.024480342864990234
+"""disaster""",0.021906375885009766
+"""accident""",0.02051520347595215
+"""emergency""",0.01738905906677246
+"""flood""",0.0182342529296875
+"""earthquake""",0.017215251922607422
+"""storm""",0.023136138916015625
+"""fire""",0.01859450340270996
+"""evacuation""",0.023662805557250977
+"""rescue""",0.016962051391601562
+"""damage""",0.015455245971679688
+"""economy""",0.013695955276489258
+"""finance""",0.01341867446899414
+"""business""",0.017023086547851562
+"""market""",0.023325681686401367
+"""investment""",0.023092031478881836
+"""budget""",0.022014379501342773
+"""revenue""",0.022039175033569336
+"""tax""",0.023914098739624023
+"""inflation""",0.014907121658325195
+"""stock""",0.016013145446777344
+"""education""",0.013273954391479492
+"""school""",0.013998270034790039
+"""college""",0.015143871307373047
+"""university""",0.014849662780761719
+"""learning""",0.016359329223632812
+"""curriculum""",0.018500804901123047
+"""teacher""",0.015981674194335938
+"""student""",0.01691746711730957
+"""exam""",0.01715826988220215
+"""scholarship""",0.015859127044677734
+"""environment""",0.016954898834228516
+"""climate""",0.017853260040283203
+"""pollution""",0.016442060470581055
+"""sustainability""",0.01719498634338379
+"""conservation""",0.015237092971801758
+"""biodiversity""",0.023456811904907227
+"""recycling""",0.015683889389038086
+"""deforestation""",0.0190579891204834
+"""emission""",0.02032327651977539
+"""energy""",0.01836395263671875
+"""health""",0.015360116958618164
+"""medical""",0.012360572814941406
+"""hospital""",0.01435542106628418
+"""disease""",0.011471748352050781
+"""pandemic""",0.014197111129760742
+"""nutrition""",0.019262313842773438
+"""vaccine""",0.014728069305419922
+"""wellbeing""",0.016954421997070312
+"""mental health""",0.02382969856262207
+"""treatment""",0.015491724014282227
+"""crime prevention""",0.01366424560546875
+"""law enforcement""",0.014367341995239258
+"""traffic accident""",0.012705564498901367
+"""financial fraud""",0.015917301177978516
+"""public health""",0.016111135482788086
+"""climate change""",0.015792131423950195
+"""school education""",0.014649152755737305
+"""economic growth""",0.018598079681396484
+"""corporate crime""",0.02393651008605957
+"""natural disaster""",0.014167070388793945
+"""emergency response""",0.015641212463378906
+"""criminal investigation""",0.01707315444946289
+"""environmental policy""",0.015830278396606445
+"""hospital management""",0.020971298217773438
+"""budget allocation""",0.012730121612548828
+"""disaster preparedness""",0.016046762466430664
+"""crime trends""",0.013275146484375
+"""workplace safety""",0.013924121856689453
+"""community health programs""",0.01259160041809082
+"""education policy reforms""",0.014235258102416992
+"""sustainable development initiatives""",0.013389825820922852
+"""flood management strategies""",0.02001643180847168
+"""earthquake preparedness plans""",0.017566919326782227
+"""financial regulation compliance""",0.020949363708496094
+"""pandemic response protocols""",0.013817071914672852
+"""school safety protocols""",0.012536048889160156
+"""emergency evacuation drills""",0.015073537826538086
+"""environmental conservation projects""",0.013149023056030273
+"""corporate governance compliance""",0.015653610229492188
+"""healthcare infrastructure improvement""",0.01385807991027832
+"""economic policy analysis""",0.017506122589111328
+"""climate adaptation measures""",0.021396875381469727
+"""crime and punishment analysis""",0.04364156723022461
+"""law reform implementation""",0.02171802520751953
+"""disaster risk assessment""",0.026293516159057617
+"""public safety monitoring""",0.017283201217651367
+"""urban crime trends""",0.013222217559814453
+"""rural healthcare access""",0.01292276382446289
+"""educational equity programs""",0.012604951858520508
+"""corporate social responsibility""",0.014467000961303711
+"""natural disaster recovery plans""",0.017733097076416016
+"""budget planning and allocation""",0.017852783203125
+"""environmental impact assessment""",0.012975692749023438
+"""pollution control measures""",0.01864790916442871
+"""food safety regulations""",0.020097017288208008
+"""pandemic prevention strategies""",0.015583038330078125
+"""student performance evaluation""",0.017325639724731445
+"""teacher training programs""",0.013009071350097656
+"""school infrastructure development""",0.013703584671020508
+"""hospital emergency readiness""",0.018516063690185547
+"""financial market monitoring""",0.013440847396850586
+"""business investment strategies""",0.011810779571533203
+"""renewable energy projects""",0.015415668487548828
+"""climate policy enforcement""",0.020356178283691406
+"""deforestation prevention initiatives""",0.021268606185913086
+"""biodiversity protection programs""",0.020804405212402344
+"""crime investigation techniques""",0.01724839210510254
+"""law enforcement technology""",0.01620340347290039
+"""emergency response coordination""",0.013402938842773438
+"""disaster relief operations""",0.012726783752441406
+"""financial auditing standards""",0.011802911758422852
+"""pandemic vaccination campaigns""",0.01252293586730957
+"""school curriculum development""",0.016250133514404297
+"""education quality assessment""",0.01816868782043457
+"""economic growth planning""",0.014174699783325195
+"""corporate fraud detection""",0.01951885223388672
+"""workplace accident prevention""",0.016855955123901367
+"""public health monitoring""",0.011525630950927734
+"""environmental law compliance""",0.011964797973632812
+"""climate change mitigation""",0.011631250381469727
+"""natural disaster insurance""",0.012282609939575195
+"""urban planning and safety""",0.0173494815826416
+"""crime"" OR ""fraud""",0.02055978775024414
+"""law"" AND ""justice""",0.01735091209411621
+"""police"" AND NOT ""corruption""",0.015539884567260742
+"(""financial fraud"" OR ""corporate crime"") AND ""regulation""",0.018157005310058594
+"(""natural disaster"" OR ""emergency response"") AND ""community""",0.01852583885192871
+"""public health"" AND NOT ""education""",0.03299832344055176
+"(""crime prevention"" OR ""law enforcement"") AND ""urban areas""",0.033980607986450195
+"""climate change"" AND ""environmental policy""",0.021306276321411133
+"""school education"" AND ""safety protocols""",0.020095348358154297
+"(""healthcare reforms"" OR ""hospital management"") AND ""rural areas""",0.01614069938659668
+"""economic growth"" AND NOT ""corruption""",0.019088268280029297
+"(""disaster preparedness"" OR ""emergency response"") AND ""community""",0.016465187072753906
+"""corporate crime"" AND ""financial regulation""",0.018060922622680664
+"(""budget allocation"" OR ""financial planning"") AND ""government policy""",0.01716017723083496
+"(""pandemic response"" OR ""disease control"") AND ""healthcare system""",0.01649951934814453
+"(""flood management"" OR ""storm preparedness"") AND ""emergency services""",0.013254404067993164
+"""teacher training"" AND ""education quality""",0.013355016708374023
+"(""renewable energy"" OR ""carbon emission"") AND ""climate change""",0.013350725173950195
+"(""school safety"" OR ""student wellbeing"") AND ""education policy""",0.012204170227050781
+"(""crime investigation"" OR ""law enforcement"") AND ""technology""",0.013185977935791016
+"(""pollution control"" OR ""waste management"") AND ""environmental policy""",0.016118526458740234
+"(""hospital readiness"" OR ""pandemic response"") AND ""healthcare system""",0.012385845184326172
+"(""economic growth"" OR ""business investment"") AND ""finance policy""",0.02017378807067871
+"(""corporate governance"" OR ""fraud detection"") AND ""regulation""",0.026548147201538086
+"(""disaster relief"" OR ""emergency services"") AND ""community safety""",0.02022528648376465
+"(""urban crime"" OR ""rural crime"") AND ""prevention strategies""",0.024859905242919922
+"(""climate adaptation"" OR ""sustainability"") AND ""environmental policy""",0.01939988136291504
+"(""biodiversity protection"" OR ""conservation efforts"") AND ""policy""",0.018918991088867188
+"(""pandemic vaccination"" OR ""disease control"") AND ""public health""",0.015860795974731445
+"(""student performance"" OR ""curriculum development"") AND ""education quality""",0.017532825469970703
+"(""teacher training"" OR ""school infrastructure"") AND ""education policy""",0.020989179611206055
+"(""financial auditing"" OR ""investment planning"") AND ""regulatory compliance""",0.02045607566833496
+"(""earthquake preparedness"" OR ""flood management"") AND ""emergency response""",0.017159223556518555
+"(""corporate crime"" OR ""financial fraud"") AND NOT ""minor offenses""",0.020208358764648438
+"(""environmental law"" OR ""pollution control"") AND ""government policy""",0.019583940505981445
+"(""disaster preparedness"" OR ""emergency evacuation"") AND ""community safety""",0.016879796981811523
+"(""healthcare access"" OR ""hospital readiness"") AND ""rural areas""",0.01448202133178711
+"(""economic policy"" OR ""budget planning"") AND ""national development""",0.015798091888427734
+"(""climate change mitigation"" OR ""renewable energy"") AND ""policy enforcement""",0.014559507369995117
+"(""crime prevention"" OR ""police monitoring"") AND ""urban safety""",0.018817663192749023
+"(""pandemic response"" OR ""healthcare readiness"") AND ""public health""",0.0186922550201416
+"(""school education"" OR ""student wellbeing"") AND ""policy reform""",0.01569962501525879
+"(""corporate governance"" OR ""fraud investigation"") AND ""financial regulation""",0.013643026351928711
+"(""emergency response"" OR ""disaster relief"") AND ""community planning""",0.01933121681213379
+"(""environmental conservation"" OR ""biodiversity protection"") AND ""policy enforcement""",0.014815807342529297
+"(""teacher training"" OR ""curriculum assessment"") AND ""school performance""",0.012239456176757812
+"(""economic growth"" OR ""investment strategy"") AND ""finance policy""",0.01187276840209961
+"(""climate adaptation"" OR ""sustainable development"") AND ""urban planning""",0.01823139190673828
+"(""crime trends"" OR ""law enforcement"") AND ""technology use""",0.0176239013671875
+"(""pandemic prevention"" OR ""vaccine deployment"") AND ""healthcare system""",0.028041601181030273
+"(""flood management"" OR ""storm preparedness"") AND ""emergency services""",0.018213987350463867
+"(""student assessment"" OR ""school infrastructure"") AND ""education quality""",0.021691560745239258
+"(""corporate fraud"" OR ""financial misconduct"") AND ""regulatory compliance""",0.012508153915405273
+"(""disaster relief"" OR ""emergency management"") AND ""community response""",0.018158435821533203
+"(""environmental law"" OR ""pollution control"") AND ""government enforcement""",0.01868271827697754
+"(""teacher training"" OR ""curriculum development"") AND ""school quality""",0.012836933135986328
+"(""economic policy"" OR ""budget allocation"") AND ""national planning""",0.015224695205688477
+"(""climate change mitigation"" OR ""renewable energy"") AND ""policy enforcement""",0.018645286560058594
+"(""crime prevention"" OR ""police monitoring"") AND ""urban safety""",0.013036489486694336
+"(""pandemic response"" OR ""healthcare readiness"") AND ""public health""",0.013025045394897461
+"(""school education"" OR ""student wellbeing"") AND ""policy reform""",0.014920711517333984
+"(""corporate governance"" OR ""fraud investigation"") AND ""financial regulation""",0.016408205032348633
+"(""emergency response"" OR ""disaster relief"") AND ""community planning""",0.012598752975463867
+"(""environmental conservation"" OR ""biodiversity protection"") AND ""policy enforcement""",0.014673948287963867
+"(""teacher training"" OR ""curriculum assessment"") AND ""school performance""",0.015129327774047852
+"(""economic growth"" OR ""investment strategy"") AND ""finance policy""",0.018038511276245117
+"(""climate adaptation"" OR ""sustainable development"") AND ""urban planning""",0.012511014938354492
+"(""crime trends"" OR ""law enforcement"") AND ""technology use""",0.011694908142089844
+"(""pandemic prevention"" OR ""vaccine deployment"") AND ""healthcare system""",0.013343572616577148
+"(""flood management"" OR ""storm preparedness"") AND ""emergency services""",0.012732505798339844
+"(""student assessment"" OR ""school infrastructure"") AND ""education quality""",0.014091730117797852
+"(""corporate fraud"" OR ""financial misconduct"") AND ""regulatory compliance""",0.021373987197875977
+"(""disaster relief"" OR ""emergency management"") AND ""community response""",0.014856815338134766
+"(""environmental law"" OR ""pollution control"") AND ""government enforcement""",0.014947891235351562
+"(""teacher training"" OR ""curriculum development"") AND ""school quality""",0.017915010452270508
+"(""economic policy"" OR ""budget allocation"") AND ""national planning""",0.013919353485107422
+"(""climate change mitigation"" OR ""renewable energy"") AND ""policy enforcement""",0.017693519592285156
+"(""crime prevention"" OR ""police monitoring"") AND ""urban safety""",0.014197587966918945
+"(""pandemic response"" OR ""healthcare readiness"") AND ""public health""",0.015808582305908203
+"(""school education"" OR ""student wellbeing"") AND ""policy reform""",0.02149486541748047
+"(""corporate governance"" OR ""fraud investigation"") AND ""financial regulation""",0.01523590087890625
+"(""emergency response"" OR ""disaster relief"") AND ""community planning""",0.019347429275512695
+"(""environmental conservation"" OR ""biodiversity protection"") AND ""policy enforcement""",0.016829967498779297
+"(""teacher training"" OR ""curriculum assessment"") AND ""school performance""",0.02583599090576172
+"(""economic growth"" OR ""investment strategy"") AND ""finance policy""",0.012078523635864258
+"(""climate adaptation"" OR ""sustainable development"") AND ""urban planning""",0.01811528205871582
+"(""crime trends"" OR ""law enforcement"") AND ""technology use""",0.02795863151550293
+"(""pandemic prevention"" OR ""vaccine deployment"") AND ""healthcare system""",0.026842117309570312
+"(""flood management"" OR ""storm preparedness"") AND ""emergency services""",0.014902114868164062
+"(""student assessment"" OR ""school infrastructure"") AND ""education quality""",0.01661992073059082
+"(""corporate fraud"" OR ""financial misconduct"") AND ""regulatory compliance""",0.011890411376953125
+"(""disaster relief"" OR ""emergency management"") AND ""community response""",0.015488386154174805
+"(""environmental law"" OR ""pollution control"") AND ""government enforcement""",0.012870550155639648
+"(""teacher training"" OR ""curriculum development"") AND ""school quality""",0.020596742630004883
+"(""economic policy"" OR ""budget allocation"") AND ""national planning""",0.017606258392333984
+"(""climate change mitigation"" OR ""renewable energy"") AND ""policy enforcement""",0.013112545013427734

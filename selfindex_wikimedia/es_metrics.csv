@@ -1,0 +1,69 @@
+query,latency_sec
+"""aberdeen""",0.035212039947509766
+"""algae""",0.02279520034790039
+"""phycology""",0.015877485275268555
+"""cyanobacteria""",0.022510051727294922
+"""chlorophyta""",0.017861366271972656
+"""rhodophyta""",0.021796464920043945
+"""phaeophyta""",0.017579317092895508
+"""chloroplast""",0.023743867874145508
+"""photosynthesis""",0.01423954963684082
+"""eukaryotic""",0.013512134552001953
+"""marine""",0.018270254135131836
+"""freshwater""",0.017664432525634766
+"""symbiosis""",0.0190584659576416
+"""biodiversity""",0.0157015323638916
+"""university""",0.017194032669067383
+"""scotland""",0.01952815055847168
+"""aberdeen scotland""",0.02888798713684082
+"""aberdeen harbour""",0.02120494842529297
+"""aberdeen tunnel""",0.016222715377807617
+"""floating village""",0.014244318008422852
+"""university of aberdeen""",0.01744556427001953
+"""algae cultivation""",0.017354249954223633
+"""red algae""",0.022203683853149414
+"""brown algae""",0.016639232635498047
+"""green algae""",0.01588273048400879
+"""algal turf""",0.020345449447631836
+"""algae biofuel""",0.015416145324707031
+"""coral reefs""",0.018573760986328125
+"""marine ecology""",0.028112173080444336
+"""phytoplankton diversity""",0.018402814865112305
+"""algae symbiosis""",0.016925334930419922
+"""algae nutrition""",0.016364574432373047
+"""algae polymers""",0.024135112762451172
+"""algae bioremediation""",0.017365455627441406
+"""seaweed farming""",0.01970195770263672
+"""algal life cycle""",0.023028850555419922
+"""analysis of variance""",0.01581859588623047
+"""anova method""",0.026728153228759766
+"""algae as biofuel and pollution control""",0.03140592575073242
+"""floating villages in aberdeen hong kong harbor""",0.014445066452026367
+"""distribution and classification of red green and brown algae""",0.014158010482788086
+"""marine algae and coral reef endosymbionts""",0.016344547271728516
+"""biodiversity of phytoplankton in freshwater ecosystems""",0.018242359161376953
+"""university of aberdeen research on algal cultivation techniques""",0.015883207321166992
+"""symbiotic relationship between algae and lichens in forests""",0.016223669052124023
+"""applications of algae in polymers and bioplastics""",0.022893428802490234
+"""seaweed farming and its contribution to local economies""",0.02996683120727539
+"""role of algae in nutrient removal from wastewater""",0.022716283798217773
+"""morphological diversity of charophyte algae and land plants""",0.020593643188476562
+"""historical development of aberdeen city council in scotland""",0.015281200408935547
+"""effects of algal blooms on marine and freshwater ecology""",0.022185564041137695
+"""phycology as the study of algae and its industrial uses""",0.021497011184692383
+"""nutritional value of spirulina and chlorella for human diet""",0.026025056838989258
+"""algae AND symbiosis""",0.013324499130249023
+"""red algae OR brown algae""",0.013975858688354492
+"""chlorophyta AND NOT cyanobacteria""",0.0318143367767334
+"(""marine ecology"" OR ""freshwater ecology"") AND ""algal diversity""",0.015946149826049805
+"""university of aberdeen"" AND ""algal research""",0.017923831939697266
+"""algal turf"" AND NOT ""cyanobacteria""",0.02004694938659668
+"(""seaweed farming"" OR ""algae cultivation"") AND ""biofuel""",0.019438743591308594
+"""floating village"" OR ""aberdeen harbour""",0.018172025680541992
+"""coral reefs"" AND ""endosymbiotic algae""",0.022252798080444336
+"""analysis of variance"" OR ""anova method""",0.031944990158081055
+"(""algae polymers"" OR ""bioplastics"") AND ""industrial applications""",0.01864767074584961
+"""biodiversity"" AND ""phytoplankton""",0.022841691970825195
+"(""symbiosis with fungi"" OR ""lichens"") AND ""algae""",0.023541927337646484
+"""nutritional supplements"" AND (""spirulina"" OR ""chlorella"")",0.02910900115966797
+"(""algae bioremediation"" OR ""wastewater treatment"") AND NOT ""chemical fertilizers""",0.024860143661499023
